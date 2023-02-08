@@ -20,13 +20,13 @@
 
 ### Training
 
-![labels_correlogram](C:\Users\yikai\Desktop\labels_correlogram.jpg)
+![labels_correlogram](./pics/labels_correlogram.jpg)
 
-![results](C:\Users\yikai\Desktop\results.png)
+![results](./pics/results.png)
 
 ### Evaluation
 
-<img src="C:\Users\yikai\AppData\Roaming\Typora\typora-user-images\image-20230208135341321.png" alt="image-20230208135341321" style="zoom:200%;" />
+<img src="./pics/val.png" alt="image-20230208135341321" style="zoom:200%;" />
 
 ## 
 
