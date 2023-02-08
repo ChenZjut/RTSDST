@@ -11,7 +11,7 @@
     ·
     <strong>Yayu Zheng</strong></a>
   </p>
-  <p align="center"><a href="https://www.ipb.uni-bonn.de"><strong>Zhe Jiang University of Technology</strong></a>
+  <p align="center"><strong>Zhe Jiang University of Technology</strong></a>
   </h3>
   <div align="center"></div>
 </p>
